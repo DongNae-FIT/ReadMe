@@ -27,14 +27,14 @@
     <tr align="center">
         <td style="min-width: 150px;">
             <a href="https://github.com/leerura">
-              <img src="https://github.com/JeongsuGil.png" width="80">
+              <img src="https://github.com/JeongsuGil.png" width="120">
               <br />
               <b></b>
             </a>
         </td>
         <td style="min-width: 150px;">
             <a href="https://github.com/lee-youn">
-              <img src="https://github.com/lee-youn.png" width="80">
+              <img src="https://github.com/lee-youn.png" width="120">
               <br />
               <b></b>
             </a>
