@@ -28,7 +28,7 @@
 
 <hr/>
 
-## 🔍 기능 소개
+## 🔍 기능 설명
 ![image](https://github.com/user-attachments/assets/1dfb8b83-eb45-4b96-ada0-50036892257c)
 ![image](https://github.com/user-attachments/assets/bb73f9e1-edc3-4a7a-a7f2-cc599bdffd84)
 ![image](https://github.com/user-attachments/assets/7e7bfb3a-fd76-409c-870e-b87da9759923)
@@ -56,10 +56,6 @@
     <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
-<hr/>
-
-## 🚀 실행 방법
-
 
 <hr/>
 
