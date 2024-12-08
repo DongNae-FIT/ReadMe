@@ -23,7 +23,7 @@
 
 ## 🙇 팀원소개
 
-<table align="center">
+<table align="">
     <tr align="center">
         <td style="min-width: 150px;">
             <a href="https://github.com/leerura">
