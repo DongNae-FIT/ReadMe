@@ -4,14 +4,8 @@
 
 동네-핏(DongNae-FIT)은 PC/모바일 환경에서 사용자의 위치를 기반으로 가까운 공공체육시설과 프로그램을 조회하고, 각 프로그램에 대한 후기와 사용자 간 소통을 위한 커뮤니티 기능을 제공하는 통합 모바일 웹 서비스입니다.
 <br /><br />
-
-![image](https://github.com/user-attachments/assets/1dfb8b83-eb45-4b96-ada0-50036892257c)
-![image](https://github.com/user-attachments/assets/bb73f9e1-edc3-4a7a-a7f2-cc599bdffd84)
-![image](https://github.com/user-attachments/assets/7e7bfb3a-fd76-409c-870e-b87da9759923)
-![image](https://github.com/user-attachments/assets/79e7c301-b50e-44df-975e-15a8005e1ff5)
-![image](https://github.com/user-attachments/assets/3d193b55-1af7-41e5-9aba-09335b5b559a)
-![image](https://github.com/user-attachments/assets/05469a33-db3a-460f-b2cd-9d281a87925f)
-![image](https://github.com/user-attachments/assets/712911c5-0622-48b5-90e6-731dfe5b476d)
+<p align="center"><img src="https://github.com/user-attachments/assets/41fd4142-8959-469c-95cf-768442fd8f8c"></p>
+<br />
 
 <hr/>
 
@@ -31,6 +25,17 @@
 공공체육시설은 단순한 공간을 제공하는 역할에 그치지 않고 다양한 스포츠 강좌 프로그램을 통해 국민의 체육활동 참여를 촉진하는 역할을 합니다. 하지만 이와 관련된 정보의 접근성과 통합성이 부족해 실제로 필요한 프로그램을 찾고 이용하려는 사용자들의 불편이 증가하고 있습니다. 
 <br /><br /> 
 따라서 우리는 사용자 위치 기반 공공체육시설 프로그램 조회 및 커뮤니티 통합 웹 서비스, <h3>동네-핏(DongNae-FIT)</h3>을 기획하게 되었습니다.
+
+<hr/>
+
+## 🔍 기능 소개
+![image](https://github.com/user-attachments/assets/1dfb8b83-eb45-4b96-ada0-50036892257c)
+![image](https://github.com/user-attachments/assets/bb73f9e1-edc3-4a7a-a7f2-cc599bdffd84)
+![image](https://github.com/user-attachments/assets/7e7bfb3a-fd76-409c-870e-b87da9759923)
+![image](https://github.com/user-attachments/assets/79e7c301-b50e-44df-975e-15a8005e1ff5)
+![image](https://github.com/user-attachments/assets/3d193b55-1af7-41e5-9aba-09335b5b559a)
+![image](https://github.com/user-attachments/assets/05469a33-db3a-460f-b2cd-9d281a87925f)
+![image](https://github.com/user-attachments/assets/712911c5-0622-48b5-90e6-731dfe5b476d)
 
 <hr/>
 
